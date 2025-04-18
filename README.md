@@ -11,7 +11,10 @@
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— *Vishlavath Pratibha*
 
 
-<hr>
+<p align="center">
+  <img src="https://media0.giphy.com/media/TIj8cbzWYKnE9ul3ab/giphy.gif?cid=6c09b952m2v01jnc6p5njarynl6ix8mmwqikiyhpntpqxrnn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" 
+       width="100%" height=10px" />
+</p>
 
 # A Bit About Me : 
 
@@ -70,11 +73,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trucoder25&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="trucoder25 top languages" height="200" width="400" />
 </p>
 
+
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=trucoder25&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="trucoder25 stats" height="200" width="400" />
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trucoder25&theme=dark&background=000000" alt="trucoder25 streak stats width="300" />
+</p>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/TIj8cbzWYKnE9ul3ab/giphy.gif?cid=6c09b952m2v01jnc6p5njarynl6ix8mmwqikiyhpntpqxrnn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" 
+       width="100%" height=10px" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
