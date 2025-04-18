@@ -75,7 +75,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trucoder25&theme=dark&background=000000" alt="trucoder25 streak stats width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trucoder25&theme=dark&background=000000" alt="trucoder25 streak stats" width="300" />
 </p>
 <hr>
 
