@@ -2,7 +2,7 @@
 <h3 align="center"> ⚡ Aspiring Product-Based Engineer |  🚀 DSA Top 9% | 🧠 Fast Learner | 💻 Code. Build. Repeat.</h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTN2bmN4NzVhNjRxbGN0czNqcTNkZ21rY2N6OTI1MDZjcDlmbTBvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif" height="500" width="1000" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTN2bmN4NzVhNjRxbGN0czNqcTNkZ21rY2N6OTI1MDZjcDlmbTBvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif" height="500px" width="100%" />
 </p>
 
 ## 🧠 Mindset
