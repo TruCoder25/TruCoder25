@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishlavath Pratibha</h1>
 <h3 align="center"> ⚡ Aspiring Product-Based Engineer |  🚀 DSA Top 9% | 🧠 Fast Learner | 💻 Code. Build. Repeat.</h3>
 
+![Profile Views](https://komarev.com/ghpvc/?username=pratibha2564&label=Profile%20views&color=0e75b6&style=flat)
+
+
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTN2bmN4NzVhNjRxbGN0czNqcTNkZ21rY2N6OTI1MDZjcDlmbTBvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif" height="500px" width="100%" />
 </p>
