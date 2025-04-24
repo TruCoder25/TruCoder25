@@ -81,8 +81,9 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=trucoder25&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="trucoder25 stats" height="200" width="400" />
 </p>
+
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trucoder25&theme=dark&background=000000" alt="trucoder25 streak stats width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trucoder25&theme=dark&background=000000" alt="trucoder25 streak stats" width="300" />
 </p>
 
 # 🌟 Let's Connect and Build Something Amazing Together!
